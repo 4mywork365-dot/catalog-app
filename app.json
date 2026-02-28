@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "Catalog App",
+    "slug": "catalog-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "platforms": ["android"],
+    "android": {
+      "package": "com.catalog.app"
+    }
+  }
+}
